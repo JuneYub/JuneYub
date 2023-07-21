@@ -10,12 +10,11 @@
 ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![jquery](https://img.shields.io/badge/jquery-0769AD.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![jquery](https://img.shields.io/badge/jquery-0769AD.svg?&style=for-the-badge&logo=css3&logoColor=white) </br></br>
 
-</br>
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=JuneYub&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/JuneYub/github-readme-stats#gh-light-mode-only)
 
-</br>
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=JuneYub&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/JuneYub/github-readme-stats#gh-light-mode-only) </br></br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrwnsduq)](https://solved.ac/qkrwnsduq/)
 
 <!--
